@@ -7,7 +7,7 @@ Created on Wed Jul 28 08:43:14 2021
 
 import xml.etree.ElementTree as ET
 
-arquivo = "Fitness Brasil - MaxiNutri NF 1715 - 07-07-2021.xml"
+arquivo = #insert filename
 
 tree = ET.parse(arquivo)
 root = tree.getroot()
