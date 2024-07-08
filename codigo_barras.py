@@ -6,7 +6,7 @@ Created on Fri Jul  9 09:10:09 2021
 """
 import xml.etree.ElementTree as ET
 
-arquivo = "Fitness Brasil - Bioklein NF 1450 - 08-07-2021.xml"
+arquivo = #insert filname
 
 tree = ET.parse(arquivo)
 root = tree.getroot()
